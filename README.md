@@ -5,7 +5,6 @@ A simple yet powerful Gantt Chart created in Excel, designed to help manage proj
 Fully Customizable: Modify tasks, dates, and dependencies with ease.<br>
 Interactive Design: Automatic color coding for task progress (on track, delayed, completed).<br>
 Milestone Tracking: Highlight key project milestones.<br>
-Easy to Use: Simple drop-down menus for quick status updates.<br>
 Scalable: Supports projects with a large number of tasks and durations.<br>
 
 ### Getting Started
