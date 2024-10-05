@@ -12,4 +12,4 @@ Prerequisites
 Microsoft Excel (2013 or later)
 
 ### Screenshot
-<img src="">
+<img src="gantt chart screenshot.PNG">
